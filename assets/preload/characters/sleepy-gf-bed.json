@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				21
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				34
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				26
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				19
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sleepy_GF_Bed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sleepy-gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		40,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
